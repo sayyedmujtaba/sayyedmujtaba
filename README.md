@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayyedmujtaba" alt="sayyedmujtaba" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Web Development**
+- 🌱 I’m currently learning **Computer Vision**
 
 - ⚡ Fun fact **I am a part-time writer**
 
